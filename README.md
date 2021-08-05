@@ -1,4 +1,4 @@
 # hallo-wereld
 Test in de nederlandse taal
 
-Een beetje over nezelf
+Een beetje over mezelf
